@@ -1,0 +1,33 @@
+/*
+COLORS:
+
+Light green: #7ed56f
+Medium green: #55c57a
+Dark green: #28b485
+
+*/
+//abstracts
+@import "abstracts/variables";
+@import "abstracts/mixins";
+@import "abstracts/functions";
+//base
+@import "base/base";
+@import "base/utils";
+@import "base/animations";
+@import "base/typography";
+//components
+@import "components/bg-video";
+@import "components/button";
+@import "components/composition";
+@import "components/card";
+@import "components/feature-box";
+@import "components/form";
+@import "components/story";
+@import "components/popup";
+//layouts
+@import "layouts/header";
+@import "layouts/navigation";
+@import "layouts/footer";
+@import "layouts/grid";
+//pages
+@import "pages/home";
